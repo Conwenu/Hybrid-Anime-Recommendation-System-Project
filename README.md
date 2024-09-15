@@ -31,7 +31,7 @@ This project is an Anime Recommendation System that suggests anime titles based 
 ## Usage
 1. Run the Streamlit application:
    ```bash
-   streamlit run your_script.py
+   streamlit run app.py
 2. Select an anime from the dropdown list.
 3. View the selected anime’s details.
 4. Click the “Show Recommendations” button to view recommended anime titles.

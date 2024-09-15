@@ -39,14 +39,12 @@ This project is an Anime Recommendation System that suggests anime titles based 
 ## Requirements
 To install the required libraries, create a requirements.txt file with the following content:
 ```
-pandas
-numpy
-streamlit
-scikit-learn
-scipy
-fuzzywuzzy
-python-Levenshtein
-pickle-mixin
+fuzzywuzzy==0.18.0
+numpy==2.1.1
+pandas==2.2.2
+scikit_learn==1.5.2
+streamlit==1.38.0
+
 ```
 
 Then, install the libraries using:

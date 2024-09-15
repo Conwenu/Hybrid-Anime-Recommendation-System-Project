@@ -57,4 +57,4 @@ pip install -r requirements.txt
 ## Conclusion
 This Anime Recommendation System provides personalized anime recommendations using a hybrid approach. It utilizes various libraries for data manipulation, numerical operations, machine learning, and web application development to deliver an efficient and user-friendly experience.
 
-## Check it out here [Website](https://diabetes-prediction-project-dfzpbdjdkbbuzwqffggbf6.streamlit.app/)
+## Check it out here [Website](https://conwenu-hybrid-anime-recommendation-system-project-app-vngo5f.streamlit.app/)

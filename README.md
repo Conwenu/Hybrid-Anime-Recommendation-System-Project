@@ -32,3 +32,26 @@ This project is an Anime Recommendation System that suggests anime titles based 
 1. Run the Streamlit application:
    ```bash
    streamlit run your_script.py
+2. Select an anime from the dropdown list.
+3. View the selected anime’s details.
+4. Click the “Show Recommendations” button to view recommended anime titles.
+
+## Requirements
+To install the required libraries, create a requirements.txt file with the following content:
+```
+pandas
+numpy
+streamlit
+scikit-learn
+scipy
+fuzzywuzzy
+python-Levenshtein
+pickle-mixin
+```
+
+Then, install the libraries using:
+pip install -r requirements.txt
+
+## Conclusion
+This Anime Recommendation System provides personalized anime recommendations using a hybrid approach. It utilizes various libraries for data manipulation, numerical operations, machine learning, and web application development to deliver an efficient and user-friendly experience.
+
